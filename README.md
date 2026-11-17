@@ -4,6 +4,8 @@
 
 Small Windows tray app (Python 3.13 + PySide6). Point it at a folder, such as a Google Drive or OneDrive folder. Every *N* minutes it checks for matching documents, prints each one to the printer you chose, and moves it into a `Processed` subfolder.
 
+Download HERE > https://github.com/vitaegd-spec/Hermes-Folder-Monitor/releases/
+
 ## Features
 - Runs minimized in the **system tray**, with an optional **Start with Windows** setting (HKCU Run key, no admin needed).
 - Check interval is adjustable (default **2 min**). The Status tab also has a **Check now** button.
